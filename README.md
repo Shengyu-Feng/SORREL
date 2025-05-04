@@ -77,7 +77,7 @@ If you find our work helpful, please cite our paper:
 ```
 @inproceedings{
     feng2025sorrel,
-    title={{SORREL: Suboptimal-Demonstration-Guided Reinforcement Learning for Learning to Branch},
+    title={SORREL: Suboptimal-Demonstration-Guided Reinforcement Learning for Learning to Branch},
     author={Feng, Shengyu and Yang, Yiming},
     booktitle={The 39th Annual AAAI Conference on Artificial Intelligence},
     year={2025}
